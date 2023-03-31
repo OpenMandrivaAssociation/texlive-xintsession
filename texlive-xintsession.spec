@@ -1,6 +1,6 @@
 Name:		texlive-xintsession
 Version:	60926
-Release:	1
+Release:	2
 Summary:	Interactive computing sessions (fractions, floating points, polynomials)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xintsession
