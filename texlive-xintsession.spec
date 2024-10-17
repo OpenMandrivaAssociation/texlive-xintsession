@@ -3,7 +3,7 @@ Version:	60926
 Release:	2
 Summary:	Interactive computing sessions (fractions, floating points, polynomials)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xintsession
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xintsession
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xintsession.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xintsession.doc.r%{version}.tar.xz
